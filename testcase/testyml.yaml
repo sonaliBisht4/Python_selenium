@@ -1,0 +1,13 @@
+- name: dataset1
+  departlocation: New York
+  gotolocation: New Delhi
+  stop1: Non Stop
+  stop2: 1 Stop
+  stop3: 2 Stops
+
+- name: dataset2
+  departlocation: JFK
+  gotolocation: DEL
+  stop1: Non Stop
+  stop2: 1 Stop
+  stop3: 2 Stops
