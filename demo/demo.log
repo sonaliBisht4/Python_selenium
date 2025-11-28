@@ -1,0 +1,49 @@
+WARNING:root:warning : addition of no is 8
+ERROR:root:error : addition of no is 8
+CRITICAL:root:critical : addition of no is 8
+WARNING:root:warning : addition of no is 15
+ERROR:root:error : addition of no is 15
+CRITICAL:root:critical : addition of no is 15
+WARNING:root:warning : addition of no is 8
+ERROR:root:error : addition of no is 8
+CRITICAL:root:critical : addition of no is 8
+WARNING:root:warning : addition of no is 15
+ERROR:root:error : addition of no is 15
+CRITICAL:root:critical : addition of no is 15
+WARNING:root:warning : addition of no is 8
+ERROR:root:error : addition of no is 8
+CRITICAL:root:critical : addition of no is 8
+WARNING:root:warning : addition of no is 15
+ERROR:root:error : addition of no is 15
+CRITICAL:root:critical : addition of no is 15
+INFO:root:info: addition of no is 8
+DEBUG:root:debug : addition of no is 8
+WARNING:root:warning : addition of no is 8
+ERROR:root:error : addition of no is 8
+CRITICAL:root:critical : addition of no is 8
+INFO:root:info: addition of no is 15
+DEBUG:root:debug : addition of no is 15
+WARNING:root:warning : addition of no is 15
+ERROR:root:error : addition of no is 15
+CRITICAL:root:critical : addition of no is 15
+2025-11-19 17:15:43,808  - INFO - info: addition of no is 8
+2025-11-19 17:15:43,808  - DEBUG - debug : addition of no is 8
+2025-11-19 17:15:43,808  - WARNING - warning : addition of no is 8
+2025-11-19 17:15:43,808  - ERROR - error : addition of no is 8
+2025-11-19 17:15:43,808  - CRITICAL - critical : addition of no is 8
+2025-11-19 17:15:43,808  - INFO - info: addition of no is 15
+2025-11-19 17:15:43,808  - DEBUG - debug : addition of no is 15
+2025-11-19 17:15:43,808  - WARNING - warning : addition of no is 15
+2025-11-19 17:15:43,808  - ERROR - error : addition of no is 15
+2025-11-19 17:15:43,808  - CRITICAL - critical : addition of no is 15
+19-Nov-25 17:19:55  - INFO - info: addition of no is 8
+19-Nov-25 17:19:55  - DEBUG - debug : addition of no is 8
+19-Nov-25 17:19:55  - WARNING - warning : addition of no is 8
+19-Nov-25 17:19:55  - ERROR - error : addition of no is 8
+19-Nov-25 17:19:55  - CRITICAL - critical : addition of no is 8
+19-Nov-25 17:19:55  - INFO - info: addition of no is 15
+19-Nov-25 17:19:55  - DEBUG - debug : addition of no is 15
+19-Nov-25 17:19:55  - WARNING - warning : addition of no is 15
+19-Nov-25 17:19:55  - ERROR - error : addition of no is 15
+19-Nov-25 17:19:55  - CRITICAL - critical : addition of no is 15
+fgfgbf
